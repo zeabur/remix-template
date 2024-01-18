@@ -1,6 +1,6 @@
-# Welcome to Remix!
+# Remix Template 
 
-- [Remix Docs](https://remix.run/docs)
+[![Deploy with Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/)
 
 ## Development
 
